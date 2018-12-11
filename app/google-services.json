@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282552711920",
+    "firebase_url": "https://locature-d18b1.firebaseio.com",
+    "project_id": "locature-d18b1",
+    "storage_bucket": "locature-d18b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282552711920:android:04bdc6e1234c4ec6",
+        "android_client_info": {
+          "package_name": "com.firebase.locature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282552711920-cq0rfjc5b2g0e3483erbg5va9o3i4lh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.locature",
+            "certificate_hash": "c44c74fa4f876f4a1240062d1224ff736d5026f2"
+          }
+        },
+        {
+          "client_id": "282552711920-uamujglejo2gddbqpflpi3ebbr4a8kat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2nnkYmIUgfPfSLJachPW30iG6_EE8yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282552711920-uamujglejo2gddbqpflpi3ebbr4a8kat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
